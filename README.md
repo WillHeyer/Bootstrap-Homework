@@ -1,2 +1,3 @@
-# Bootstrap-Homework
-Using Bootstrap to develop our portfolio site 
+Will Heyer's Portfolio
+
+This is my portolio. It includes an 'About Me' page, a 'Portfolio' page, and a 'Contact' page.

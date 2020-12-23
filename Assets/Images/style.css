@@ -1,0 +1,59 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: rgb(231, 231, 231);
+    margin-bottom: 60px;
+    line-height: 2;
+}
+
+body nav .navbar-brand {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(255, 255, 255, 0);
+}
+
+
+.abt-container {
+    margin-top: 75px;
+    background-color: white;
+    padding: 30px;
+}
+
+main h1 {
+    color: rgb(3, 145, 145);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 46px;
+}
+ /* This is how I achieved the blue background color */
+ 
+.btn-primary {
+    background-color: rgb(3, 145, 145);
+    border-color: rgb(3, 145, 145);
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    border-radius: 0;
+    padding: 1.25rem 2.5rem;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    line-height: 70px;
+    background-color: #818181;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(3,145,145);
+    border-bottom: white;
+    border-width: 10px 0px 10px 0px;
+}
